@@ -1,0 +1,1 @@
+Projects used to learn HTML........and these are also trials while uploading to github from vs code directly haha
